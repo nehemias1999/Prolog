@@ -1,3 +1,10 @@
+
+/*
+
+ PRACTICO 5
+
+*/
+
 /* 
 
 Introducción a la recursividad en Prolog 
