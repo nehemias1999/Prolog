@@ -1,6 +1,12 @@
 
 /*
 
+ PRACTICO 6
+
+*/
+
+/*
+
 Listas en Prolog.
 
 */
