@@ -1,3 +1,10 @@
+
+/*
+
+ PRACTICO 5
+ 
+*/
+
 /*
 
 Decisiones en Prolog
